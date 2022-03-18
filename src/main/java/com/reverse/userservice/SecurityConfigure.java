@@ -7,7 +7,6 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 
 @EnableWebSecurity
 public class SecurityConfigure extends WebSecurityConfigurerAdapter {
-    //Test Commit
 
     @Override
     @Generated
