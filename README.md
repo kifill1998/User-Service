@@ -46,4 +46,4 @@
 
 # Getting Started
 
-    -Review the SETUP.md file
+    -Review the SETUP.md file.
